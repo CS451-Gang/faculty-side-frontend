@@ -11,13 +11,13 @@ const Nav = () => {
         </nav>
         <ul>
             <li>
-                <Link href='/facultyHome'>Home</Link>
+                <Link href='/faculty/facultyHome'>Home</Link>
             </li>
             <li>
-                <Link href='/manageApp'>Manage Application</Link>
+                <Link href='/faculty/manageApp'>Manage Application</Link>
             </li>
             <li>
-                <Link href='/submissions'>View Submissions</Link>
+                <Link href='/faculty/submissions'>View Submissions</Link>
             </li>
             <li>
                 <Link href='/'>Logout</Link>
